@@ -2,7 +2,7 @@
 
 This repository demonstrates the use of transfer learning for SQUAD Question Answering using BERT from hugging face and was developed as a part of NLP coursework.
 
-[![colab link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/jaygala24/question-answering-bert/blob/master/question_answering.ipynb)
+[![colab link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaygala24/question-answering-bert/blob/master/question_answering.ipynb)
 
 Goal: Develop a language model that can generate responses for questions (relevant to context) given a paragraph as context.
 
